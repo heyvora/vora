@@ -282,3 +282,6 @@ $RECYCLE.BIN/
 
 # Custom ignores
 scratchpad/
+.vscode
+.tanstack/
+build/
